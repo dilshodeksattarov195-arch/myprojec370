@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userponnect",
+        "uuid": 3048800,
+        "checksum": "awem6a"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
